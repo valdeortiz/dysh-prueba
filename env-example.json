@@ -1,0 +1,5 @@
+{
+  "SUPABASE_ANON_KEY":
+      "your key",
+  "SUPABASE_URL": "your supabase url"
+}

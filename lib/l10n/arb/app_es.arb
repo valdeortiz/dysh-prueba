@@ -1,0 +1,15 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "login": "Iniciar Sesión",
+    "@login": {
+        "description": "Texto mostrado en la página del Login"
+    },
+    "signup": "Crear cuenta",
+    "@signup": {
+        "description": "Texto mostrado en la página del signup"
+    }
+}
